@@ -1,4 +1,4 @@
-# Selenium Boilerplate: 
+# Selenium Amazon Search link: 
    This java project contains the essentials to get started with selenium quickly without having to go through the hassle of downloading individual dependencies one by one. 
 
 ## What does this project use?
